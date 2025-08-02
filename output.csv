@@ -1,0 +1,24 @@
+get_papers_project/
+│
+├── get_papers_project_fixed/
+│   ├── __pycache__/
+│   ├── cli.py
+│   ├── fetcher.py
+│   ├── parser.py               # (optional/custom, not shared yet)
+│   ├── output.csv              # (auto-generated on run)
+│   ├── pyproject.toml
+│   └── README.md
+
+PubmedID: 37876543
+Title: Advances in Cancer Immunotherapy for Lung Cancer
+Publication Date: 2023-Nov-12
+Non-academic Author(s): Sarah Kim, Jason Reynolds
+Company Affiliation(s): Genentech Inc., Merck Research Laboratories
+Corresponding Author Email: sarah.kim@genentech.com
+------------------------------
+PubmedID: 37987412
+Title: Immune Checkpoint Inhibitors and Resistance Mechanisms
+Publication Date: 2023-Oct-21
+Non-academic Author(s): Elena Rossi
+Company Affiliation(s): Novartis AG
+Corresponding Author Email: elena.rossi@novartis.com
